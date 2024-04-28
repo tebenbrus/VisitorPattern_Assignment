@@ -1,4 +1,4 @@
-#Visitor Pattern
+# Visitor Pattern
 
 You are a software developer working on an e-commerce platform that sells various types of furniture (chairs, tables, sofas, etc.). 
 You want to implement a functionality that calculates the shipping cost based on the furniture type and size.Each furniture type 
@@ -8,6 +8,6 @@ furniture class would lead to tight coupling and difficulty adding new furniture
 approach. You must show the different elements of visitor design in your solution.  DO NOT USE ABSTRACT CLASSES. You are free to name your 
 interfaces and concrete classes. Have a client code that will test your program.
 
-##UML Diagram
+## UML Diagram
 ![VisitorPattern](https://github.com/tebenbrus/VisitorPattern_Assignment/assets/114350433/2a60c51c-e4b4-44d9-8f85-005524be3479)
 
